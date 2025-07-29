@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Naitik Srivastava 👋
 
-<!--
-**naitik-srivastava/naitik-srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering | IoT Enthusiast  
+💻 Passionate about Embedded Systems, Web Dev & Robotics  
+🔧 Tech Stack: Arduino, ESP32, HTML, CSS, JS, Node.js  
+📂 Explore my repositories to see hands-on projects like:
+- 🛒 Amazon Clone (HTML/CSS)
+- 🎮 JavaScript Games (Tic-Tac-Toe, Stone Paper Scissors)
+- 🤖 IoT Projects with ESP32 and Sensors
+-Asl Translator
+-A.X.I.O.N Rover Project
+and more to come
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/naitik-srivastava-6890b0321)  
+🌐 Check out my GitHub projects below ⬇️
